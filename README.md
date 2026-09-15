@@ -1,7 +1,7 @@
 # Hi, I'm Sunkanmi 👋
 
+**Software Engineer | Learning and Building**  
 **Mechatronics Engineering Undergraduate**
-**Software Engineer | Learning and Building**
 
 ---
 
@@ -13,21 +13,22 @@
 
 ## 🛠️ Skills
 
-* Python
-* HTML & CSS
-* JavaScript
-* Django
-* React
-* Tailwind CSS
-* C
-* Git & GitHub
+**Languages & Core**
+`Python` `C` `SQL`
+
+**Web**
+`HTML & CSS` `JavaScript` `React` `Tailwind CSS` `Django`
+
+**Tools**
+`Git & GitHub` `Figma`
 
 ---
-## 📫 Connect with me
 
-[<img src="https://cdn.simpleicons.org/x" width="24" alt="X">](https://x.com/Sunkanmi__18) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [sunk@sunkanmi.com](mailto:sunk@sunkanmi.com)
+## 🔗 Connect with me
+
+- 🌐 Website: [sunkanmi.com](https://sunkanmi.com)
+- 🐦 X: [@sunkanmi_me](https://x.com/sunkanmi_me)
+
 ---
 
-*Last updated: {{july 2026}}*
-
-
+*Last updated: September 2026*
